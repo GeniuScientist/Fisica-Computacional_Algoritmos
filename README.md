@@ -1,6 +1,7 @@
 # Implementações de métodos computacionais abordados em Física Computacional.
 
 Copyright (c) 2024 João Pedro Teles Rodrigues. Licenciado sob EUPL-1.2 ou versão posterior.
+
 Poderá obter uma cópia desta licença em https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12.
 
 Neste repositório poderás encontrar funções definidas em Python, que implemetam algoritmos e métodos que foram abordados ao longo do semestre na UC de Física Computacional.
